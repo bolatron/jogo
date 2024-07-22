@@ -1,0 +1,3 @@
+[submodule "lib/jogo.h"]
+	path = lib/jogo.h
+	url = https://github.com/Syndelis/jogo.h.git
